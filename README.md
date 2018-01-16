@@ -1,4 +1,4 @@
-&nbsp; [![knowledge](https://img.shields.io/badge/knowledge-🔖-green.svg)](#) &nbsp; [![mindmap](https://img.shields.io/badge/mindmap-🔖-green.svg)](#) &nbsp; [![learning](https://img.shields.io/badge/learning-🔖-green.svg)](#) &nbsp; [![learning-by-doing](https://img.shields.io/badge/learning_by_doing-🔖-green.svg)](#)
+&nbsp; [![knowledge](https://img.shields.io/badge/knowledge-ing-blue.svg)](#) &nbsp; [![mindmap](https://img.shields.io/badge/mindmap-ing-blue.svg)](#) &nbsp; [![learning](https://img.shields.io/badge/learning-ing-blue.svg)](#) &nbsp; [![learning-by-doing](https://img.shields.io/badge/learning_by_doing-ing-blue.svg)](#)
 
 ### About
     Good Good Study! Day Day Up!
