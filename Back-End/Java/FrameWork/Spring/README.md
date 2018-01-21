@@ -6,7 +6,7 @@
 Spring框架是一个开源的Java平台，可以非常简单快速地为开发强大的Java应用程序提供全面的基础架构支持。Spring框架最初由Rod Johnson编写，并于2003年6月首次在Apache 2.0许可下发布。Spring是企业Java中较流行的应用程序开发框架。
 ```
 
-[![Spring](http://on-img.com/chart_image/5a5dedffe4b0a447b9a92ee3.png)点击查看清晰图](https://www.processon.com/embed/mind/5a5dedffe4b0a447b9a92ee0)
+[![Spring](./Spring.png)点击查看完整图](https://www.processon.com/embed/mind/5a5dedffe4b0a447b9a92ee0)
 
 # Resource
 
