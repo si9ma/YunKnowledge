@@ -26,5 +26,5 @@ Spring框架是一个开源的Java平台，可以非常简单快速地为开发�
 - [Spring - JDBC Framework Overview](https://www.tutorialspoint.com/spring/spring_jdbc_framework.htm)
 - [Spring JDBC Example](https://www.tutorialspoint.com/spring/spring_jdbc_example.htm)
 - [SQL Stored Procedure in Spring](https://www.tutorialspoint.com/spring/calling_stored_procedure.htm)
-- [Spring - Logging with Log4J](https://www.tutorialspoint.com/spring/logging_with_log4j.htm)
-- [Spring Framework API)](https://docs.spring.io/spring-framework/docs/current/javadoc-api/)
+- [Spring - Logging witjh Log4J](https://www.tutorialspoint.com/spring/logging_with_log4j.htm)
+- [Spring Framework API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/)
