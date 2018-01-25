@@ -15,3 +15,4 @@ Spring MVC 是Spring框架的一部分。用于开发基于Java的Web应用程�
 - [JSTL Quick Reference](http://cs.roosevelt.edu/eric/books/JSP/jstl-quick-reference.pdf)
 - [JSP - Standard Tag Library (JSTL) Tutorial](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
 - [Official Spring Web MVC Specification](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
+- [spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase)  [![spring mvc showcase](https://img.shields.io/badge/spring_mvc_showcase-Github-blue.svg)]()
