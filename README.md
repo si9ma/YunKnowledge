@@ -8,7 +8,11 @@
 
 [![All Knowledge](./Knowledge.png)点击查看完整图](https://www.processon.com/embed/mind/5a5d6f17e4b0332f1531cbc6)
 
-<!-- ## Front-End &nbsp; [![Front-End](https://img.shields.io/badge/Front_End-ing-green.svg)](#) -->
+## Front-End &nbsp; [![Front-End](https://img.shields.io/badge/Front_End-ing-green.svg)](#)
+
+### Android &nbsp; [![Java](https://img.shields.io/badge/Java-ing-red.svg)](/Front-End/Android/)
+
+[![Android](./Front-End/Android/Android.png)点击查看完整图](https://www.processon.com/embed/mind/5a93b145e4b083b04399ef4d)
 
 <!-- ### HTML &nbsp; [![HTML](https://img.shields.io/badge/HTML-ing-red.svg)](#)
 
@@ -44,3 +48,6 @@
 
 [![Apache Maven](./Back-End/Java/BuildAutomationTool/Maven/Maven.png)点击查看完整图](https://www.processon.com/embed/mind/5a655904e4b0332f153fc9c9)
 
+##### Gradle &nbsp; [![Gradle](https://img.shields.io/badge/Gradle-ing-orange.svg)](/Back-End/Java/BuildAutomationTool/Gradle/)
+
+[![Gradle](./Back-End/Java/BuildAutomationTool/Gradle/Gradle.png)点击查看完整图](https://www.processon.com/embed/mind/5ad0a6dde4b0469106318e22)
